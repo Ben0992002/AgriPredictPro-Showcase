@@ -3,7 +3,7 @@ Architecture stratégique et vision de la plateforme AgriPredict Pro : l'Optimis
 
  Présentation Stratégique :
  
-AgriPredict Pro est une solution technologique conçue pour répondre aux défis critiques de la productivité agricole et de la stabilité financière à Madagascar. À la convergence de l'IA, de la Cybersécurité et de la Finance, cette plateforme transforme des données complexes en leviers de croissance.
+AgriPredict Pro est une solution technologique conçue pour répondre aux défis critiques de la productivité agricole et de la stabilité financière à Madagascar. À la convergence de l'IA, de la data, de la Cybersécurité et de la Finance, cette plateforme transforme des données complexes en leviers de croissance.
 
 L'objectif est double :
 
