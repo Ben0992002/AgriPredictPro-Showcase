@@ -2,6 +2,7 @@
 Architecture stratégique et vision de la plateforme AgriPredict Pro : l'Optimisation Décisionnelle au service de l'agriculture et de la finance à Madagascar.
 
  Présentation Stratégique
+ 
 AgriPredict Pro est une solution technologique conçue pour répondre aux défis critiques de la productivité agricole et de la stabilité financière à Madagascar. À la convergence de l'IA, de la Cybersécurité et de la Finance, cette plateforme transforme des données complexes en leviers de croissance.
 
 L'objectif est double :
@@ -11,6 +12,7 @@ Optimisation Opérationnelle : Réduire l'incertitude pour les producteurs grâc
 Pilotage Stratégique : Offrir aux décideurs administratifs une visibilité totale sur la performance et une aide à la décision pour une allocation optimale des ressources.
 
  Architecture de la Solution
+ 
 L'architecture d'AgriPredict Pro repose sur une structure modulaire et sécurisée, garantissant l'intégrité des données et la scalabilité du système.
 
 1. Couche d'Acquisition et de Traitement (Data Engineering)
@@ -34,6 +36,7 @@ Dashboard Décideurs : Visualisation de données avancée (Business Intelligence
 Interface Producteurs : Application ergonomique facilitant la saisie et la consultation des recommandations.
 
  Confidentialité et Propriété Intellectuelle
+ 
 Ce dépôt est une vitrine conceptuelle. Pour des raisons de confidentialité stratégique et de propriété intellectuelle :
 
 Le code source (Backend, modèles d'IA, logique métier) est maintenu dans un environnement privé.
